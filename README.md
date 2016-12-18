@@ -1,2 +1,2 @@
 # InternetGameMSys
-test
+For database.
