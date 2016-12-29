@@ -1,2 +1,0 @@
-# InternetGameMSys
-For database.
